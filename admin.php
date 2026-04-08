@@ -14,8 +14,8 @@ ob_start();
 error_reporting(0); 
 
 // THÔNG TIN ĐĂNG NHẬP
-$ADMIN_USER = '';
-$ADMIN_PASS = '';
+$ADMIN_USER = 'demo';
+$ADMIN_PASS = 'demo';
 
 $uploadFolderName = 'uploads';
 $uploadDir = __DIR__ . DIRECTORY_SEPARATOR . $uploadFolderName . DIRECTORY_SEPARATOR;
