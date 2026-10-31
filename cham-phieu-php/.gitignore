@@ -2,6 +2,7 @@
 /storage/*.sqlite-*
 /storage/data.json
 /storage/uploads/
+/tmp/
 /.env
 
 
